@@ -8,5 +8,4 @@ ChatBridge is a full-stack chat application that allows users to create and join
 
 ## 🎥 Demo
 
-![Animation](./Extension/NotePilot-EXT/assets/NotePilot.gif)
 ![Animation](./ChatBridge-frontend/ChatBridge/Assets/ChatBridge.gif)
